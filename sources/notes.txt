@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<objectBus>
+    <color>белый</color>
+    <name>Электробус</name>
+    <seat>10</seat>
+    <whils>4</whils>
+</objectBus>
